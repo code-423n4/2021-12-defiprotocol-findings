@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "neslinesli93",
+  "address": "0x05F75e99d8578958Faa756953164ddE0F1FAcbbd",
+  "risk": "1",
+  "title": "Incorrent visibility for \"initialized\" variable",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/50"
+}
