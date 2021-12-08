@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "G",
+  "title": "Empty condition block",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/11"
+}
