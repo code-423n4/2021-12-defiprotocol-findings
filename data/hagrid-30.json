@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "hagrid",
+  "address": "0x3A46FeD37cAcd52a6DACc4a49f520AdaD0e51D61",
+  "risk": "1",
+  "title": "`Ownable` Contract Does Not Implement Two-Step Transfer Ownership Pattern",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/30"
+}
