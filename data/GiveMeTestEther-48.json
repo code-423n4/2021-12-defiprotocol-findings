@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "Basket:updateIBRatio() reuse the function argument instead of the storage variable",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/48"
+}
