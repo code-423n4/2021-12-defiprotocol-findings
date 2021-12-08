@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "BouSalman",
+  "address": "0xDdd4D4c17971dBfC6FD781c3354DCaa7757a87eb",
+  "risk": "0",
+  "title": "Lack of message in require statments",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/6"
+}
