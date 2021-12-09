@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "0",
+  "title": "Wrong syntax in test leads to wrong test results",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/62"
+}
