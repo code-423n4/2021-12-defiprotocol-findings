@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "GeekyLumberjack",
+  "address": "0xC63E80f0094aE02CD5C12d121336b41420a27dd2",
+  "risk": "G",
+  "title": "Unneeded approval in approveUnderlying, remove to save gas",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/71"
+}
