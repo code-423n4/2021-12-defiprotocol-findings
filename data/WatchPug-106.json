@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`Auction.sol#settleAuction()` Bonder may not be able to settle a bonded auction, leading to loss of funds",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/106"
+}
