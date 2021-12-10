@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "bw",
+  "address": "0x3d977eF4855A526500E901bFA43c209E0C51BA84",
+  "risk": "1",
+  "title": "Broken unit tests due to incorrect values",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/88"
+}
