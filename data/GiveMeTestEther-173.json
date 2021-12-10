@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xA370579F1786E8b4557F92A563257C58757EBE7D",
+  "risk": "1",
+  "title": "Dust can't be withdrawn",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/173"
+}
