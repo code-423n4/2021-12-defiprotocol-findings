@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "GeekyLumberjack",
+  "address": "0xC63E80f0094aE02CD5C12d121336b41420a27dd2",
+  "risk": "3",
+  "title": "DOS attack - BondForRebalance",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/80"
+}
