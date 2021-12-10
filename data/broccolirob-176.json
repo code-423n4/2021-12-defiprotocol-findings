@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "Reentrancy vulnerability in `Basket` contract's `initialize()` method.",
+  "issueId": 176,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/176"
+}
