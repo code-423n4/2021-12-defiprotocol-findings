@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "3",
+  "title": "No access control on initialise() will lead to stolen funds ",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/169"
+}
