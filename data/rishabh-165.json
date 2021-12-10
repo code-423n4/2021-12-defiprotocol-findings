@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol 3 contest",
+  "handle": "rishabh",
+  "address": "0xaf55d73461836577FEEbe04Ca5CFFFD1918B345C",
+  "risk": "2",
+  "title": "Check for tokenAmount > 0 is missing in pushUnderlying function [basket.sol]",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2021-12-defiprotocol-findings/issues/165"
+}
